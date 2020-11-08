@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-mathgame/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/react-mathgame/static/js/main.53bad27f.chunk.js",
+    "main.js.map": "/react-mathgame/static/js/main.53bad27f.chunk.js.map",
+    "runtime-main.js": "/react-mathgame/static/js/runtime-main.fdb5996d.js",
+    "runtime-main.js.map": "/react-mathgame/static/js/runtime-main.fdb5996d.js.map",
+    "static/js/2.b5b7e93e.chunk.js": "/react-mathgame/static/js/2.b5b7e93e.chunk.js",
+    "static/js/2.b5b7e93e.chunk.js.map": "/react-mathgame/static/js/2.b5b7e93e.chunk.js.map",
+    "static/js/3.99fe47e2.chunk.js": "/react-mathgame/static/js/3.99fe47e2.chunk.js",
+    "static/js/3.99fe47e2.chunk.js.map": "/react-mathgame/static/js/3.99fe47e2.chunk.js.map",
+    "index.html": "/react-mathgame/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/react-mathgame/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.b5b7e93e.chunk.js.LICENSE.txt": "/react-mathgame/static/js/2.b5b7e93e.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/react-mathgame/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fdb5996d.js",
+    "static/js/2.b5b7e93e.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.53bad27f.chunk.js"
+  ]
+}
